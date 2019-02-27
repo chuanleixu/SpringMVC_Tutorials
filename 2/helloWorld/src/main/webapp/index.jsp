@@ -1,48 +1,49 @@
 <html>
 <body>
 
-    <a href="/springmvc/helloworld">hello world</a>
+<a href="/springmvc/helloworld">hello world</a>
 
 
-    <br><br>
+<br><br>
 
 
-    <form action="/springmvc/testMethod" method="post">
-        <button value="submit">testMethod</button>
+<form action="/springmvc/testMethod" method="post">
+    <button value="submit">testMethod</button>
 
-    </form>
+</form>
 
-    <br><br>
+<br><br>
 
-    <a href="/springmvc/testParamsAndHeaders?username=chengdu&age=10">testParamsAndHeaders</a>
+<a href="/springmvc/testParamsAndHeaders?username=chengdu&age=10">testParamsAndHeaders</a>
 
-    <br><br>
+<br><br>
 
-    <a href="/springmvc/testPathVariable/1">testPathVariable</a>
+<a href="/springmvc/testPathVariable/1">testPathVariable</a>
 
-    <br><br>
+<br><br>
 
-    <a href="/springmvc/testRest/1">Test Rest Get</a>
+<a href="/springmvc/testRest/1">Test Rest Get</a>
 
-    <br><br>
+<br><br>
 
-    <form action="/springmvc/testRest" method="post">
-            <input type="submit" value="TestRest POST">
-    </form>
+<form action="/springmvc/testRest" method="post">
+    <input type="submit" value="TestRest POST">
+</form>
 
-    <br><br>
+<br><br>
 
-    <form action="/springmvc/testRest/1" method="post">
-        <input type="hidden" name="_method" value="DELETE">
-        <input type="submit" value="TestRest DELETE">
-    </form>
+<form action="/springmvc/testRest/1" method="post">
+    <input type="hidden" name="_method" value="DELETE">
+    <input type="submit" value="TestRest DELETE">
+</form>
 
-    <br><br>
+<br><br>
 
-    <form action="/springmvc/testRest/1" method="post">
-        <input type="hidden" name="_method" value="PUT">
-        <input type="submit" value="TestRest PUT">
-    </form>
+<form action="/springmvc/testRest/1" method="post">
+    <input type="hidden" name="_method" value="PUT">
+    <input type="submit" value="TestRest PUT">
+</form>
 
+<br><br>
 </body>
 </html>
