@@ -7,7 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2c404a9-4867-49dd-bcc4-572501d29249" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../3/helloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3/helloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xcl/controller/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xcl/entities/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xcl/entities/User.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +128,7 @@
     <session id="-82936902">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -526,12 +528,12 @@
       <workItem from="1551236414877" duration="1845000" />
       <workItem from="1551335748910" duration="3623000" />
       <workItem from="1551404307004" duration="677000" />
-      <workItem from="1552888228887" duration="1156000" />
+      <workItem from="1552888228887" duration="1754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25748000" />
+    <option name="totallyTimeSpent" value="26346000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,7 +557,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39154616" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39154616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
